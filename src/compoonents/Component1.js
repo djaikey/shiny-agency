@@ -5,6 +5,7 @@ function Component1() {
 
   //affichage
   return <h1>Titre</h1>;
+  
 }
 
 export default Component1;

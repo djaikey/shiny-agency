@@ -1,6 +1,6 @@
 import Component1 from "../../compoonents/Component1";
-import "../styles/App.css";
-function App() {
+import "../../styles/App.css";
+function Accueil() {
   return (
     <div className="App">
       <Component1 />
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default Accueil;

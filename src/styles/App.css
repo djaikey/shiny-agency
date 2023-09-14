@@ -1,11 +1,10 @@
-body{
-   ;
-}
+
 
 h1 {
-
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif    display: flex;
-   justify-items: center;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    display: flex;
+    justify-items: center;
     align-items: center;
     
 }
