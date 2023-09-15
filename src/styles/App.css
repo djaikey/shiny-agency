@@ -1,10 +1,12 @@
-
+body {
+    background-color: blanchedalmond;
+}
 
 h1 {
     color: blue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     justify-items: center;
     align-items: center;
-    
+
 }
